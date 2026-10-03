@@ -1,6 +1,6 @@
 <div align="center">
 
-# HuanMoovo
+<img src="assets/banner.svg" alt="HuanMoovo — Indie Game Developer" width="100%">
 
 **独立游戏开发者** · 用像素与代码，在废墟上种出新的生命
 
